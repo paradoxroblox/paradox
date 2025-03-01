@@ -1,5 +1,5 @@
 gamelistearlyaccess = {
-    [5700746583] = "https://raw.githubusercontent.com/paradoxroblox/paradox/refs/heads/discord.gg/paradoxroblox/games_earlyaccess/pillarchase2.lua",
+    [5700746583] = "https://raw.githubusercontent.com/paradoxroblox/paradox/refs/heads/discord.gg/paradoxroblox/games/pillarchase2.lua",
     [2618786652] = "https://raw.githubusercontent.com/paradoxroblox/paradox/refs/heads/discord.gg/paradoxroblox/games/daybreak2.lua",
     [5569032992] = "https://raw.githubusercontent.com/paradoxroblox/paradox/refs/heads/discord.gg/paradoxroblox/games/dandysworld.lua",
     [380704901] = "https://raw.githubusercontent.com/paradoxroblox/paradox/refs/heads/discord.gg/paradoxroblox/games/roghoul.lua",
